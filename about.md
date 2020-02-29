@@ -18,4 +18,8 @@ title: 关于我
 <p>
 Email：cassieldyf@163.com       
 <p>
-QQ: 2622434339@qq.com     
+QQ: 2622434339@qq.com   
+
+
+<h3> 特别说明 </h3>
+2020年2月29号是我第一次尝试搭建个人博客，借用了leopardpan大佬的模板（leopardpan.github.io），里面的文章框架还需要借鉴学习，未能立马删除。初来炸到，敬请谅解。
