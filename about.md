@@ -19,7 +19,7 @@ title: 关于我
 
 <p>
 
-如果你想搭建一个跟我一样的。
+如果你想搭建一个跟我一样的, right。
 <a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
 教程
 
