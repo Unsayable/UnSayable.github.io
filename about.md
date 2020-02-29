@@ -2,51 +2,20 @@
 layout: page
 title: 关于我
 ---
-
-一个 iOS SDK 开发者，喜欢研究一些新技术。
+<h3> 关于我 </h3>  
 <p>
-平时喜欢整理个人博客，逛逛技术论坛。
 <p>
-了解一些 前端 基本概念和 Python 的简单用法。
-
+一个小朋友
+<h3> 为什么建立博客 </h3>  
 <p>
-
-<h2> 我们的博客 </h2>  
-
 <p>
-
-是的，这个博客是我们大家的，目前已经有很大一部分人在使用我的博客模板了。
-
+某乎昨晚突然删除我一篇上万字的文章，申诉无果
 <p>
-
-怎么回事啊。
-<a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
-教程
-
-<p>
-
-有关于博客主题的建议和意见都可以提给我。
-
-<p>
-
-博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
-
-<p>
-
-<p>
-
-<p>
-
+怀疑本人已经患有或即将患上阿尔茨海默症
 
 <h3> 如何联系我 </h3>  
-
 <p>
-email：leoparpan@icloud.com       
 <p>
-qq: 1499065178     
+Email：cassieldyf@163.com       
 <p>
-如果有 搭建博客 或者 移动端 技术的问题可以一起讨论.
-<p>
-
-
-{% include comments.html %}
+QQ: 2622434339@qq.com     
