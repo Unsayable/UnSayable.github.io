@@ -1,28 +1,28 @@
 # Basic
 title: YuCassiel
-subtitle: 
-description: Welcome to my dull world.
+subtitle: Welcome to my dull world.
+description: Eating the frogs in the morning.
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: 钰
 # 头像里面的描述
-avatarDesc: Learning / Mood
-url: "http://baixin.io"
+avatarDesc: 平乏世界
+url: "https://yucassiel.github.io/"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: YuCassiel
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
-    # zhihu: panpanleopard
-    # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    weibo: 
+    github: 
+    # zhihu: 
+    # juejin: 
+    jianshu:
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: Cassieldyf@163.com
 
 
 # 百度统计 
