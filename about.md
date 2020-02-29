@@ -19,7 +19,7 @@ title: 关于我
 
 <p>
 
-改不改改不改改不改改不改改不改改不改。
+怎么回事啊。
 <a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
 教程
 
