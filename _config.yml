@@ -1,16 +1,16 @@
 # Basic
-title: Yu
-subtitle: Cassiel
+title: Unsayable
+subtitle: Fragments
 description: Welcome to my dull world.
 # 头像里面的标题
-avatarTitle: 钰
+avatarTitle: 嗨
 # 头像里面的描述
 avatarDesc: 平乏世界
-url: "https://yucassiel.github.io/"
+url: "https://unsayable.github.io/"
 
 # Comment
 comment:
-    disqus: YuCassiel
+    disqus: Unsayable
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
@@ -22,7 +22,7 @@ social:
     # juejin: 
     jianshu:
     # twitter: 
-    mail: Cassieldyf@163.com
+    mail: cassieldyf@163.com
 
 
 # 百度统计 
